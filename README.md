@@ -1,4 +1,4 @@
-##### Hi I'm Shivam 👋
+# Hi I'm Shivam 👋
 
 <!--
 **shivam01july/shivam01july** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
