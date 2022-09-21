@@ -1,6 +1,4 @@
-<img src="header.svg"></img>
 
-[comment]: [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=61w55pkx8nc9jj2gbjruczhki&cover_image=false&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=61w55pkx8nc9jj2gbjruczhki&redirect=true)
 
 # Hi I'm Shivam 👋
 
@@ -10,17 +8,25 @@
 
 - 📝 [Resume](https://github.com/shivam01july/Data-Store/blob/main/Shivam's%20Resume.pdf)
 
-<!--
-**shivam01july/shivam01july** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :email: Find me on:  
+<p align="left">
+<a href="https://linkedin.com/in/shivam01july" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amsal-khan" height="30" width="40" /></a>
+
+
+<a href="https://forum.xda-developers.com/m/amsal1.7050192/" target="blank"><img align="center" src="https://github.com/antonialoytorrens/xda-icon-svg/blob/master/xda.svg" alt="amsalkhan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9513172/amsal-khan" target="blank"><img align="center" src="https://github.com/StackExchange/Stacks-Icons/blob/production/src/Icon/LogoGlyph.svg" alt="amsal-khan" height="30" width="40" /></a>
+<a href="https://instagram.com/amsalkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amsalkhan" height="30" width="40" /></a>
+<a href="https://facebook.com/md.amsalkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.amsalkhan" height="30" width="40" /></a>
+</p>
+
+
+
+
+## 👨‍💻 LeetCode Activity:
+<p align="center">
+<a href="https://leetcode.com/shivam01july">
+  <img align="center" src="https://leetcode.card.workers.dev/?username=shivam01july&style=auto&border=1&extension=activity&font=Times%20New%20Roman" alt="leetcode" />
+</a>
+</p>
